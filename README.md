@@ -1,2 +1,3 @@
 # Dota2_analysis
-Analyze dota 2 profiles.
+Create profiles for dota 2 players and show their statistics and draw graphs.
+ReactJS, and fastAPI
